@@ -1,0 +1,41 @@
+{
+  "name": "{your name}",
+  "products": [
+    {
+      "name": "Bulbasaur",
+      "id": 1,
+      "sprite": "https://cdn.traction.one/pokedex/pokemon/1.png",
+      "description": "While it is young, it uses the nutrients that are stored in the seeds on its back in order to grow."
+    },
+    {
+      "name": "Clefairy",
+      "id": 35,
+      "sprite": "https://cdn.traction.one/pokedex/pokemon/35.png",
+      "description": "Though rarely seen, it becomes easier to spot, for some reason, on the night of a full moon."
+    },
+    {
+      "name": "Clamperl",
+      "id": 366,
+      "sprite": "https://cdn.traction.one/pokedex/pokemon/366.png",
+      "description": "CLAMPERL’s sturdy shell is not only good for protection - it is also used for clamping and catching prey. A fully grown CLAMPERL’s shell will be scored with nicks and scratches all over."
+    },
+    {
+      "name": "Miltank",
+      "id": 241,
+      "sprite": "https://cdn.traction.one/pokedex/pokemon/241.png",
+      "description": "In order to milk a MILTANK, one must have a knack for rhythmically pulling up and down on its udders."
+    },
+    {
+      "name": "Hoppip",
+      "id": 187,
+      "sprite": "https://cdn.traction.one/pokedex/pokemon/187.png",
+      "description": "It can be carried away on even the gentlest breeze. It may even float all the way to the next town."
+    },
+    {
+      "name": "Rhyhorn",
+      "id": 111,
+      "sprite": "https://cdn.traction.one/pokedex/pokemon/111.png",
+      "description": "It can remember only one thing at a time. Once it starts rushing, it forgets why it started."
+    }
+  ]
+}
