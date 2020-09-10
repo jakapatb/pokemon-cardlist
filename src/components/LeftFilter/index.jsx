@@ -8,7 +8,7 @@ const Container = styled.div`
   padding: 1rem;
   transform: translateY(-50%);
   width: 10rem;
-  min-height: 20rem;
+  min-height: 10rem;
   background-color: #1b1e21;
   border-radius: 0 0.5rem 0.5rem 0;
 `;
