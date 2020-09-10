@@ -25,3 +25,13 @@ https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/{hero-slug-name}
 ### example image url
 
 https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/phantom_assassin_vert.jpg
+
+## Color
+
+Background-1 #2f363d
+
+Background-2 #1b1e21
+
+Font color #FEFEFE
+
+Gradient color #c31432, #240b36
