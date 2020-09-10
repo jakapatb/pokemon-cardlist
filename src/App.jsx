@@ -1,4 +1,4 @@
-import React, { useReducer, useState } from "react";
+import React, { useReducer } from "react";
 import heroesList from "./database.json";
 import { Card } from "./components/Card";
 import styled from "styled-components";
