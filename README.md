@@ -10,6 +10,10 @@ Attributes (Str,Agi,Int)
 
 Attack type (Melee, Ranged)
 
+โดยดึ
+
+hero-slug-name คือ ให้เอา localized_name มาแปลงเป็น lower case และ เปลี่ยนให้ space " " เป็น "\_"
+
 ## image 3D
 
 https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/{hero-slug-name}_full.png
