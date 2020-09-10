@@ -10,7 +10,8 @@ Attributes (Str,Agi,Int)
 
 Attack type (Melee, Ranged)
 
-โดยดึ
+โดยดึงข้อมูล จาก ไฟล์ ./database.json
+และรูปภาพมีใน public/
 
 hero-slug-name คือ ให้เอา localized_name มาแปลงเป็น lower case และ เปลี่ยนให้ space " " เป็น "\_"
 
